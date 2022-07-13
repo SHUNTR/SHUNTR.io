@@ -1,0 +1,12 @@
+@font-face { 
+    font-family: "MuseoSansMedium";
+    src: url("../fonts/MuseoSansMedium.ttf");
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face { 
+    font-family: "MuseoSansMedium";
+    src: url("../fonts/MuseoSansBlack.ttf");
+    font-style: normal;
+    font-weight: 800;
+}
